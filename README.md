@@ -8,7 +8,7 @@
   <br>
 <sup>1</sup>Department of Mathematics and Statistics, University of Bern&nbsp;&nbsp;&nbsp;
 <br>
-<sup>2</sup>Department of Mathematics, University of California, Berkeley&nbsp;&nbsp;&nbsp;
+<sup>2</sup>Department of Mathematics, University of California, San Diego&nbsp;&nbsp;&nbsp;
 </p>
 
 
